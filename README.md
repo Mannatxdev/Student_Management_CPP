@@ -45,7 +45,7 @@ This project was developed as part of summer training to apply core programming 
 4. Sorting is done using STL `sort()` function.
 5. Data is saved into a file named `students.txt`.
 
----
+----
 
 ## 🖥️ How to Run the Project
 
